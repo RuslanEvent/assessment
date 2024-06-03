@@ -35,3 +35,4 @@ jupyter notebook
 ```
  and then payme.ipynb file will be opened in your browser. Run the cells in the notebook to see the output.
 
+test.py is not completed yet
